@@ -138,7 +138,7 @@ Press CTRL+C to stop the logs
 
 sudo systemctl stop celestia-appd
 
---------------------------------------------------------------
+-------------------------------------------------------
 
 cd $HOME
 rm -rf ~/.celestia-app/data
